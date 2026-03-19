@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://Pickauu.github.io/my-hugo-site/'
 locale = 'en-us'
 title = 'My New Hugo Project'
 theme = "PaperMod"
