@@ -1,4 +1,55 @@
 baseURL = 'https://Pickauu.github.io/my-hugo-site/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'Hugo測試網站'
 theme = "PaperMod"
+[[menu.main]]
+    identifier = "posts"
+    name = "文章專區"
+    url = "/posts/"
+    weight = 10
+
+[[menu.main]]
+    identifier = "categories"
+    name = "分類"
+    url = "/categories/"
+    weight = 20
+
+[[menu.main]]
+    identifier = "tags"
+    name = "標籤雲"
+    url = "/tags/"
+    weight = 30
+
+[[menu.main]]
+    identifier = "about"
+    name = "關於 Master"
+    url = "https://github.com/Pickauu"
+    weight = 40
+
+[params.profileMode]
+    enabled = true # 開啟個人模式
+    title = "Wei-Chen Liu (Master)" # 你的大名
+    subtitle = "輔大資管 👨‍💻 | 天底下最可愛的小薇守護者 ❤️ | JoJo 迷 | Python 學習中"
+    displayFullDisp = true # 顯示完整介紹
+    imageUrl = "images/avatar.png" # 你的大頭貼路徑
+    imageTitle = "Master"
+    imageWidth = 150
+    imageHeight = 150
+
+# 下方可以加一些互動按鈕（Call to Action）
+[[params.profileMode.buttons]]
+    name = "來看我的冒險文章 ✍️"
+    url = "/posts"
+
+[[params.profileMode.buttons]]
+    name = "我的 GitHub 基地"
+    url = "https://github.com/Pickauu"
+
+# 加入社交圖示（會在下方排成一列，超帥！）
+[[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/Pickauu"
+
+[[params.socialIcons]]
+    name = "instagram"
+    url = "https://instagram.com/你的帳號"
