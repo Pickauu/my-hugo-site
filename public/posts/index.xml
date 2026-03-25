@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Hugo測試網站</title>
-    <link>http://localhost:14647/my-hugo-site/posts/</link>
+    <link>http://localhost:9634/my-hugo-site/posts/</link>
     <description>Recent content in Posts on Hugo測試網站</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Mar 2026 17:44:47 +0800</lastBuildDate>
-    <atom:link href="http://localhost:14647/my-hugo-site/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:9634/my-hugo-site/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://localhost:14647/my-hugo-site/posts/my-first-post/</link>
+      <link>http://localhost:9634/my-hugo-site/posts/my-first-post/</link>
       <pubDate>Thu, 19 Mar 2026 17:44:47 +0800</pubDate>
-      <guid>http://localhost:14647/my-hugo-site/posts/my-first-post/</guid>
+      <guid>http://localhost:9634/my-hugo-site/posts/my-first-post/</guid>
       <description>&lt;p&gt;這是我在輔大資管學到的新技能！💯&lt;/p&gt;
 &lt;h2 id=&#34;給小薇的悄悄話&#34;&gt;給小薇的悄悄話&lt;/h2&gt;
 &lt;p&gt;小薇是天底下最可愛的人，我要把這個網站送給她！(⁎⁍̴̛ᴗ⁍̴̛⁎)&lt;/p&gt;

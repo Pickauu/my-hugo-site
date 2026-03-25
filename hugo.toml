@@ -53,3 +53,8 @@ theme = "PaperMod"
 [[params.socialIcons]]
     name = "instagram"
     url = "https://instagram.com/你的帳號"
+
+[params.assets]
+    favicon = "image/favicon.png" 
+    favicon16x16 = "image/favicon.png"
+    favicon32x32 = "image/favicon.png"
